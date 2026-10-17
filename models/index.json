@@ -1,0 +1,12 @@
+{
+  "male": {
+    "front": "models/male_front.png",
+    "side": "",
+    "back": ""
+  },
+  "female": {
+    "front": "",
+    "side": "",
+    "back": ""
+  }
+}
